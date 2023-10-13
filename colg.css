@@ -1,0 +1,42 @@
+<html><head><style>img {
+    align-items: right;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+form {
+    background-color: rgb(91, 136, 136);
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    width: 35%;
+    justify-content: center;
+    top: 10%;
+    right: 0%;
+    bottom: 5%;
+    left: 0%;
+    margin: auto;
+    position: absolute;
+}
+
+h1 {
+    text-align: center;
+    background-color: rgb(204, 144, 212);
+}
+
+button {
+    border-style: double;
+    background-color: rgb(96, 221, 158);
+}
+
+label {
+    border-style: inset;
+}
+
+input {
+    border-style: ridge;
+}
+
+</style></head></html>
